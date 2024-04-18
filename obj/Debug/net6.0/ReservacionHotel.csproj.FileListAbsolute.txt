@@ -1,0 +1,15 @@
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\bin\Debug\net6.0\ReservacionHotel.exe
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\bin\Debug\net6.0\ReservacionHotel.deps.json
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\bin\Debug\net6.0\ReservacionHotel.runtimeconfig.json
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\bin\Debug\net6.0\ReservacionHotel.dll
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\bin\Debug\net6.0\ReservacionHotel.pdb
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.csproj.AssemblyReference.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.AssemblyInfoInputs.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.AssemblyInfo.cs
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.csproj.CoreCompileInputs.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.dll
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\refint\ReservacionHotel.dll
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.pdb
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ReservacionHotel.genruntimeconfig.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 3\PROGRAMA\ReservacionHotel\obj\Debug\net6.0\ref\ReservacionHotel.dll
